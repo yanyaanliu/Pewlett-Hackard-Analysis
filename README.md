@@ -7,11 +7,12 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 * There are 90,398 employees are expected to retire in the near future which represent 30% of the total workforce.
 * The majority of people retiring are Senior Engineers, Senior Staff and Engineer which represent 33%, 31% and 16% respectively of total employees retiring.
-</br>
-![images](/images/Picture1.png)
 * There are 1549 people eligible for the mentorship program. 
 * The majority of people eligible for the mentorship program are Senior Staff and Engineers. 
 </br>
+![images](/images/Picture1.png)
+</br>
+
 ![images](/images/Picture2.png)
 
 ## Summary 
