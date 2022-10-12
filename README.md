@@ -11,11 +11,11 @@ The purpose of this analysis is to determine the number of retiring employees pe
 * The majority of people eligible for the mentorship program are Senior Staff and Engineers. 
 </br>
 
-![image1](/Images/Picture1.png)
+![image1](/Images/Pic1.png)
 
 </br>
 
-![image2](/Images/Picture2.png)
+![image2](/Images/Pic2.png)
 
 ## Summary 
 
