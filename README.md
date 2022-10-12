@@ -10,7 +10,9 @@ The purpose of this analysis is to determine the number of retiring employees pe
 * There are 1549 people eligible for the mentorship program. 
 * The majority of people eligible for the mentorship program are Senior Staff and Engineers. 
 </br>
+
 ![image1](/Images/Picture1.png)
+
 </br>
 
 ![image2](/Images/Picture2.png)
